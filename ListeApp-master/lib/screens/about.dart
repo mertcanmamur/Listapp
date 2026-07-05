@@ -29,7 +29,7 @@ class _AboutState extends State<About>{
               Divider(),
               Text("mamurmert@gmail.com", style: TextStyle(fontSize: 20),),
               Divider(color: Colors.black, height: 10.0,),
-              Text("Geliştirilme Tarihi : Ocak 2022", textAlign: TextAlign.center, style: TextStyle(fontSize: 20),),
+              Text("Geliştirilme Tarihi : Ocak 2024", textAlign: TextAlign.center, style: TextStyle(fontSize: 20),),
               Divider(),
               Text("Geliştirilme Yeri : İstanbul / Türkiye", textAlign: TextAlign.center, style: TextStyle(fontSize: 20),),
               Divider(),
